@@ -1,7 +1,7 @@
 # Python-MachineLearning
-🧠 Um template robusto de Machine Learning em Python. Utiliza **Scikit-learn** para modelos, **Pandas** para manipulação de dados e **Matplotlib** para visualização. Rápido, eficiente e pronto para produção! 🚀
+🧠 Uma API em python utilizando FLASK. Rápido, eficiente e pronto para produção! 🚀
 
-# 🤖 ML-Project-Template: O Seu Próximo Projeto de Machine Learning
+# 🧰 ML-Project-Template: A sua Proxima API!
 
 <p align="center">
   <img src="[Insira aqui o link de um badge de status do projeto, ex: 'Em Desenvolvimento']" alt="Status do Projeto">
@@ -34,7 +34,7 @@ Para garantir a máxima eficiência e performance, este projeto é construído s
 | **Pandas** | Manipulação, limpeza e análise de dados tabulares. Essencial! |
 | **NumPy** | Operações numéricas de alto desempenho e vetorização de dados. |
 | **Matplotlib** | Geração de gráficos e visualizações estáticas de alta qualidade. |
-| **[Insira aqui]** | *Ex: Jupyter Notebooks para EDA.* |
+
 
 ---
 
