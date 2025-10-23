@@ -4,6 +4,7 @@ from flask import Flask, render_template, request
 # good coding habits:
 #  - to name our site "app"
 
+#  This is needed so that Flask knows where to look for resources such as templates and static files.
 app = Flask(__name__)
 
 # Create functions for our site:
@@ -12,8 +13,8 @@ app = Flask(__name__)
     # function -> what whill be on the page
     # Template!
 @app.route('/') #This is a DECORATOR!
-def hello():
-    return 'Hello World'
+def homePage():
+    return render_template('index.html')
 
 # Make A dynamic page, for example a users page!
 @app.route('/users/<username>')

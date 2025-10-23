@@ -1,2 +1,4 @@
 Flask
-venv
+python-dotenv
+
+watchdog
